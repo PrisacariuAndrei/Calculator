@@ -1,2 +1,2 @@
 # Calculator
-Simularea unui clacluator de buzunar utilizand JFrame
+Simularea unui calculator de buzunar utilizand JFrame
